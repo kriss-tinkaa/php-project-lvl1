@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/kriss-tinkaa/php-project-lvl1/workflows/hexlet-check/badge.svg?branch=)](https://github.com/kriss-tinkaa/php-project-lvl1/actions?query=branch:)
